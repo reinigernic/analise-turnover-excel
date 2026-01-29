@@ -34,6 +34,6 @@ Caso queira trocar ideias sobre o projeto ou People Analytics, fique à vontade 
 ┣ 📂 relatorio
 ┗ 📄 analise_turnover.xlsx
 
-📂 dados → base de dados utilizada na análise e memória de cálculo iv 
-📂 relatorio → relatório final em PDF  
+📂 dados → base de dados utilizada na análise
+📂 relatorio → relatório final em PDF  e memória de cálculo iv  
 📄 analise_turnover.xlsx → arquivo com a análise realizada
